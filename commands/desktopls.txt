@@ -1,0 +1,8 @@
+.
+..
+.DS_Store
+.localized
+Carmen_Cheng_FinalExam.rtf
+FinalExam.pdf
+aws
+desktopls.txt
